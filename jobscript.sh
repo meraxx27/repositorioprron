@@ -1,6 +1,6 @@
 #!/bin/bash
  "Bienvenido/a al planeta $planeta"
-if [ "$agente" = "true" ]
+f [ "$agente" = "true" ]
 then
 	echo "Prepárese para la misión agente X, que la fuerza te acompañe."
 else
